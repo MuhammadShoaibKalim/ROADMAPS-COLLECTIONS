@@ -152,6 +152,97 @@ Connect with the community and let’s grow together! 💪
 
   </details>
 
+<details>
+
+  <summary> 
+  <strong> 📌 Java Developer Roadmap: Beginner to Advanced </strong>
+  </summary>
+
+A complete guide to becoming a **production-ready Java Developer**. This roadmap is organized in three levels: **Beginner**, **Intermediate**, and **Advanced**.
+
+---
+
+## 🟢 Beginner Level
+
+- ✅ Java Syntax & Data Types (int, float, char, String, etc.)
+- ✅ Variables, Operators & Expressions
+- ✅ Conditional Statements (if-else, switch)
+- ✅ Loops (for, while, do-while)
+- ✅ Functions / Methods
+- ✅ Arrays & Strings
+- ✅ Object-Oriented Programming (OOP)
+  - ✅ Classes & Objects
+  - ✅ Encapsulation
+  - ✅ Inheritance
+  - ✅ Polymorphism
+- ✅ Packages and Access Modifiers
+- ✅ IDE Setup (IntelliJ / Eclipse)
+- ✅ Basic Exception Handling (try-catch-finally)
+- ✅ Input/Output using Scanner and System.out
+- ✅ Simple Console Projects
+
+---
+
+## 🔵 Intermediate Level
+
+- 🚀 Collections Framework (List, Set, Map, Queue)
+- 🚀 Generics (Generic Classes & Methods)
+- 🚀 File Handling (BufferedReader, FileReader, FileWriter)
+- 🚀 Java 8 Features:
+  - 🚀 Lambda Expressions
+  - 🚀 Streams API
+  - 🚀 Functional Interfaces
+  - 🚀 Method References
+- 🚀 Multithreading & Concurrency (Thread, Runnable, Executors)
+- 🚀 JDBC (Java Database Connectivity)
+- 🚀 MySQL/PostgreSQL Integration
+- 🚀 Basic Swing or JavaFX GUI (Optional)
+- 🚀 Unit Testing with JUnit
+- 🚀 Build Tools (Maven / Gradle)
+- 🚀 Logging (Log4j / SLF4J)
+- 🚀 Git Basics + GitHub Projects
+- 🚀 Create CLI Apps or Simple Desktop Tools
+
+---
+
+## 🔴 Advanced Level
+
+- 🧠 Spring Framework (Core, AOP, Dependency Injection)
+- 🧠 Spring Boot (REST APIs, CRUD, Annotations)
+- 🧠 Spring Data JPA / Hibernate (ORM)
+- 🧠 Spring Security (JWT, OAuth2)
+- 🧠 Microservices with Spring Cloud
+- 🧠 API Documentation (Swagger/OpenAPI)
+- 🧠 Dockerize Spring Boot Applications
+- 🧠 CI/CD Pipelines (GitHub Actions / Jenkins)
+- 🧠 Deploy to Cloud (Heroku, AWS, Azure)
+- 🧠 Kafka / RabbitMQ (Messaging Systems)
+- 🧠 System Design Basics (Design Patterns, SOLID Principles)
+- 🧠 Testing with Mockito / Integration Tests
+- 🧠 Caching (EhCache, Redis)
+- 🧠 Database Design + Indexing + Normalization
+- 🧠 Secure APIs (CORS, Rate Limiting, CSRF Protection)
+- 🧠 Performance Tuning & Monitoring (JVM, GC, Actuator)
+
+---
+
+## 📝 Tips for Success
+
+- Work on real-world **Spring Boot Projects**
+- Practice **DSA in Java** on platforms like LeetCode, HackerRank
+- Learn **Design Patterns** (Factory, Singleton, Observer, etc.)
+- Create a solid **portfolio with REST APIs** and documentation
+- Read source code and contribute to **open-source Java projects**
+
+> _“Java is not just a language, it’s a foundation for software craftsmanship.”_
+
+---
+
+## 📌 Which level are you currently at?
+
+Let’s connect, share progress, and build together! 🚀
+
+</details>
 
 
   
