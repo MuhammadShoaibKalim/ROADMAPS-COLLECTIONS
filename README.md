@@ -245,4 +245,88 @@ Let’s connect, share progress, and build together! 🚀
 </details>
 
 
+<details>
+  <summary> <strong> 📌 Spring Boot Developer Roadmap: Beginner to Advanced </strong> </summary>
+
+
+A complete guide to becoming a **Spring Boot Developer** ready for real-world applications and backend system design. Organized into **Beginner**, **Intermediate**, and **Advanced** levels.
+
+---
+
+## 🟢 Beginner Level
+
+- ✅ Introduction to Spring & Spring Boot
+- ✅ Setup Spring Boot Project (Spring Initializr)
+- ✅ Understanding Project Structure
+- ✅ REST API Development (GET, POST, PUT, DELETE)
+- ✅ Controllers, Services, Repositories
+- ✅ Dependency Injection & @Autowired
+- ✅ Configuration with `application.properties` / `.yml`
+- ✅ Model Mapping using DTOs
+- ✅ Basic Exception Handling with `@ControllerAdvice`
+- ✅ Spring Boot DevTools & Actuator
+- ✅ Connect with H2 / MySQL database
+- ✅ Using Spring Data JPA (CrudRepository, JpaRepository)
+
+---
+
+## 🔵 Intermediate Level
+
+- 🚀 Advanced JPA (Custom Queries, JPQL, Native SQL)
+- 🚀 Validation using `@Valid` and Hibernate Validator
+- 🚀 ResponseEntity & Custom API Responses
+- 🚀 Global Exception Handling & Custom Exceptions
+- 🚀 Lombok (Reduce Boilerplate Code)
+- 🚀 API Documentation with Swagger/OpenAPI
+- 🚀 Application Profiles (dev, test, prod)
+- 🚀 JWT Authentication & Authorization (Spring Security)
+- 🚀 Role-Based Access Control (RBAC)
+- 🚀 File Upload/Download API
+- 🚀 Consuming External APIs using `RestTemplate` / `WebClient`
+- 🚀 Postman Testing Collection
+- 🚀 Deployment to Heroku / Railway / Render
+
+---
+
+## 🔴 Advanced Level
+
+- 🧠 Microservices with Spring Cloud
+  - 🧠 Eureka Server (Service Discovery)
+  - 🧠 API Gateway (Zuul / Spring Cloud Gateway)
+  - 🧠 Config Server (Centralized Configuration)
+  - 🧠 Circuit Breaker (Resilience4j / Hystrix)
+- 🧠 Advanced Spring Security
+  - 🧠 OAuth2, Refresh Tokens
+  - 🧠 Secure REST APIs with CORS, CSRF
+- 🧠 Hibernate Performance Tuning (Caching, Fetch Strategies)
+- 🧠 Integration Testing with TestContainers
+- 🧠 CI/CD Pipelines (GitHub Actions / Jenkins)
+- 🧠 Dockerize Spring Boot Apps
+- 🧠 Deploy on AWS (EC2, RDS, S3)
+- 🧠 Redis for Caching
+- 🧠 Kafka / RabbitMQ for Messaging
+- 🧠 System Design Concepts (Scalability, Load Balancing)
+- 🧠 Monitoring & Logs (Spring Boot Admin, ELK Stack)
+- 🧠 Clean Architecture / Domain-Driven Design (DDD)
+
+---
+
+## 📝 Tips for Success
+
+- Focus on building **real-world Spring Boot projects**
+- Start with **monoliths**, then move to **microservices**
+- Use Swagger, GitHub, and Docker in every project
+- Learn **design patterns** and **write testable code**
+- Join Spring communities and follow core contributors
+
+> _“Spring Boot makes production-ready apps fast—make sure your skills are too.”_
+
+---
+
+## 📌 Which phase are you currently in?
+
+Track your growth, collaborate with others, and keep learning. 💡
+
+</details>
+
   
