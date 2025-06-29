@@ -17,6 +17,9 @@ Whether you're diving into **MERN**, mastering **Java**, building powerful **Spr
 - 📌 [Spring Boot + Microservices + Docker + AWS](#spring-boot--microservices--docker--aws)
 - 📌 [Python Developer Roadmap: Beginner to Advanced](#-python-developer-roadmap-beginner-to-advanced)
 - 📌 [Next.js Developer Roadmap: Beginner to Advanced](#-nextjs-developer-roadmap-beginner-to-advanced)
+- 📌 [Node.js Developer Roadmap: Beginner to Advanced](#-nodejs-developer-roadmap-beginner-to-advanced)
+- 📌 [DevOps Engineer Roadmap: Beginner to Advanced](#-deveops-engineer-roadmap-beginner-to-advanced)
+- 📌 [React Native Roadmap: Beginner to Advanced](#-reactive-native-developer-roadmap-beginner-to-advanced) 
 
 
 ---
@@ -724,6 +727,7 @@ Organized into:
 
 ---
 
+
 ## 📌 Tips for Success
 
 - 🧠 Learn by building full-stack apps (with backend/API)  
@@ -748,6 +752,175 @@ Organized into:
 ```
 </details> 
 
+<details>
+  <summary><strong>📌 Node.js Developer Roadmap: Beginner to Advanced</strong></summary>
+
+A step-by-step roadmap to becoming a **professional Node.js Backend Developer**, covering core JavaScript, Express.js, databases, APIs, deployment, and DevOps.
+
+Organized into:  
+✅ JavaScript Core → 🔁 Node.js Essentials → 🚀 Express.js & REST → 🧠 Advanced Topics + Deployment
+
+---
+
+## 🟢 Beginner Level (JavaScript & Node.js Basics)
+
+- ✅ JavaScript ES6+ (let/const, arrow functions, template literals)
+- ✅ Functions, Arrays, Objects, Loops, Conditionals
+- ✅ Promises, Async/Await
+- ✅ Callback Functions
+- ✅ JSON & Local Storage
+- ✅ Node.js Introduction
+- ✅ Setup Node.js & NPM
+- ✅ Core Modules (fs, path, http, os, url)
+- ✅ Creating HTTP Server with Node
+- ✅ npm / yarn package manager
+- ✅ Modular Code & `require()` / `import` (ESM)
+- ✅ Nodemon for auto-reloading
+
+---
+
+## 🔵 Intermediate Level (Express.js & REST APIs)
+
+- 🚀 Express.js Basics (Routing, Middleware)
+- 🚀 HTTP Methods (GET, POST, PUT, DELETE)
+- 🚀 RESTful API Design
+- 🚀 Handling Forms & JSON
+- 🚀 Postman / Thunder Client Testing
+- 🚀 Environment Variables using dotenv
+- 🚀 Connecting MongoDB using Mongoose
+- 🚀 CRUD Operations with MongoDB
+- 🚀 Express Router & Modular File Structure
+- 🚀 MVC Pattern (Model-View-Controller)
+- 🚀 Error Handling (404, custom middleware)
+- 🚀 Logging with Morgan / Winston
+- 🚀 Git + GitHub Projects & Version Control
+
+---
+
+## 🔴 Advanced Level (Authentication, Security, DevOps)
+
+- 🧠 JWT Authentication & Authorization
+- 🧠 Cookies & Sessions (express-session)
+- 🧠 Bcrypt Password Hashing
+- 🧠 Role-based Access Control (RBAC)
+- 🧠 CORS, Helmet, XSS Protection
+- 🧠 File Uploads (Multer)
+- 🧠 Email Services (Nodemailer)
+- 🧠 Rate Limiting & Throttling
+- 🧠 MongoDB Aggregation Framework
+- 🧠 Query Filters, Pagination, Sorting
+- 🧠 WebSockets with `socket.io` (real-time apps)
+- 🧠 Testing APIs (Jest, Supertest)
+- 🧠 CI/CD with GitHub Actions
+- 🧠 Dockerize Node.js App
+- 🧠 Deployment (Render / Railway / Heroku / AWS EC2)
+- 🧠 Monitoring & Logging (PM2, Loggers)
+- 🧠 Working with PostgreSQL + Sequelize/Prisma (optional)
+- 🧠 GraphQL with Apollo Server (optional)
+- 🧠 Building Microservices (Optional)
+
+---
+
+## 📝 Project Ideas by Level
+
+| Level       | Projects                                   |
+|-------------|---------------------------------------------|
+| Beginner    | HTTP Server, CLI Tool, JSON File Writer     |
+| Intermediate| Blog API, Contact Form, Notes App (CRUD)    |
+| Advanced    | E-commerce Backend, Auth System, Chat App   |
+
+---
+
+## 📌 Tips for Success
+
+- Write code daily, build projects, and practice REST API concepts  
+- Use Postman or Thunder Client to test endpoints  
+- Follow clean code practices and modular file structure  
+- Read Node.js docs: https://nodejs.org/en/docs  
+- Add logging, validation, and error handling in all apps  
+- Keep secrets in `.env` files and never push them to GitHub  
+
+> _"Node.js is not just about JavaScript — it's about scaling real-world backend systems."_ 🚀
+
+---
+
+## ✅ Track Your Progress
+
+```markdown
+- [x] Build CRUD REST API with Express
+- [ ] Setup JWT Auth with Cookies
+- [ ] Connect to MongoDB with Mongoose
+- [ ] Deploy Node.js App on Railway with Docker
+```
+
+</details>
+
+<details>
+  <summary><strong>📌 DevOps Engineer Roadmap: Beginner to Advanced</strong></summary>
+
+Master the art of automation, CI/CD, containerization, monitoring, and cloud infrastructure.
+
+---
+
+## 🟢 Beginner Level
+
+- ✅ Linux Fundamentals (CLI, File System, Permissions)
+- ✅ Bash/Shell Scripting
+- ✅ Version Control: Git + GitHub
+- ✅ Networking Basics (Ports, DNS, IP, Firewall)
+- ✅ HTTP/HTTPS, SSL, Load Balancing
+- ✅ SSH & Key Management
+- ✅ Package Managers (apt, yum, brew)
+- ✅ Software Installation & Configuration
+- ✅ Process & Service Management
+- ✅ Cron Jobs for Scheduling
+
+---
+
+## 🔵 Intermediate Level
+
+- 🚀 Git Branching, Pull Requests, Git Hooks
+- 🚀 CI/CD Concepts & Tools (Jenkins, GitHub Actions)
+- 🚀 Docker (Images, Containers, Volumes, Networking)
+- 🚀 Docker Compose (Multi-container Setup)
+- 🚀 Infrastructure as Code (IaC): Terraform / Pulumi
+- 🚀 Kubernetes Basics (Pods, Services, Deployments)
+- 🚀 Helm Charts
+- 🚀 Monitoring with Prometheus + Grafana
+- 🚀 Logging with ELK Stack (Elasticsearch, Logstash, Kibana)
+- 🚀 Secrets Management (Vault, AWS Secrets Manager)
+- 🚀 Load Testing Tools (Apache JMeter, K6)
+
+---
+
+## 🔴 Advanced Level
+
+- 🧠 Kubernetes Advanced (StatefulSets, DaemonSets, CRDs)
+- 🧠 GitOps (ArgoCD, Flux)
+- 🧠 Service Mesh (Istio / Linkerd)
+- 🧠 Cloud Providers: AWS / Azure / GCP
+- 🧠 EC2, S3, IAM, RDS, CloudFront, Route 53
+- 🧠 Terraform Modules & Cloud Deployments
+- 🧠 CI/CD Pipelines (Docker + GitHub Actions + AWS)
+- 🧠 Observability: Tracing, Metrics, Logs
+- 🧠 Cost Optimization in Cloud
+- 🧠 SRE Concepts (SLI, SLO, SLA)
+- 🧠 Blue-Green & Canary Deployments
+- 🧠 Chaos Engineering (Gremlin, Chaos Monkey)
+
+---
+
+## 📝 Project Ideas
+
+| Level | Projects |
+|-------|----------|
+| Beginner | Bash automation scripts, GitHub workflows |
+| Intermediate | Dockerize & deploy web app with CI/CD |
+| Advanced | Kubernetes + Helm + Terraform on AWS |
+
+> _“Automate everything. Document everything. Scale anything.”_ ⚙️
+
+</details>
 
 ## 📂 Perfect For
 
@@ -761,6 +934,9 @@ Organized into:
 > _“Learn in public. Build in steps. Grow in confidence.”_
 
 ---
+
+
+
 
 ## ⭐ How to Use
 
