@@ -10,7 +10,7 @@ Whether you're diving into MERN, mastering Java, building powerful Spring Boot M
 
 ## Table of Contents
 
-1. [.NET Full Stack Developer Roadmap: Beginner to Advanced](#dotnet-full-stack-developer-roadmap-beginner-to-advanced)
+1. [.NET Full Stack Developer Roadmap: Beginner to Advanced](#1-net-full-stack-developer-roadmap-beginner-to-advanced)
 2. [MERN Stack Developer Roadmap: Beginner to Advanced](#2-mern-stack-developer-roadmap-beginner-to-advanced)
 3. [Java Developer Roadmap: Beginner to Advanced](#3-java-developer-roadmap-beginner-to-advanced)
 4. [Spring Boot Developer Roadmap: Beginner to Advanced](#4-spring-boot-developer-roadmap-beginner-to-advanced)
@@ -28,6 +28,7 @@ Whether you're diving into MERN, mastering Java, building powerful Spring Boot M
 16. [Cloud DevOps Engineer Roadmap](#16-cloud-devops-engineer-roadmap)
 17. [Serverless Architecture Roadmap](#17-serverless-architecture-roadmap)
 18. [Cloud Security Engineer Roadmap](#18-cloud-security-engineer-roadmap)
+
 
 ---
 
@@ -101,6 +102,7 @@ Keep growing, keep learning! 💪
 
 </details>
 
+<a id="mern-stack-developer-roadmap-beginner-to-advanced"></a>
 
 <details>
   
@@ -191,7 +193,8 @@ Connect with the community and let’s grow together! 💪
 
 
   </details>
-
+  
+<a id="java-developer-roadmap-beginner-to-advanced"></a>
 <details>
 
   <summary> 
@@ -284,7 +287,7 @@ Let’s connect, share progress, and build together! 🚀
 
 </details>
 
-
+<a id="spring-boot-developer-roadmap-beginner-to-advanced"></a>
 <details>
   <summary> <strong> 📌 Spring Boot Developer Roadmap: Beginner to Advanced </strong> </summary>
 
@@ -369,6 +372,7 @@ Track your growth, collaborate with others, and keep learning. 💡
 
 </details>
 
+<a id="spring-boot-microservices-docker-aws"></a>
 <details>
   <summary>
     <strong>📌 Spring Boot + Microservices + Docker + AWS </strong>
@@ -505,6 +509,7 @@ You can fork this file, turn each skill into a checklist:
   
 </details>
 
+<a id="python-developer-roadmap-beginner-to-advanced"></a>
 <details>
 <summary> <strong> 📌 Python Developer Roadmap: Beginner to Advanced </strong> </summary>
 # 🐍 Python Developer Roadmap: Beginner to Advanced
@@ -650,7 +655,8 @@ Organized into:
 </details>
 
 <details>
-  
+
+<a id="nextjs-developer-roadmap-beginner-to-advanced"></a>
 <summary>
 <strong> 📌 Next.js Developer Roadmap: Beginner to Advanced  </strong>
 </summary>
@@ -758,6 +764,7 @@ Organized into:
 ```
 </details> 
 
+<a id="nodejs-developer-roadmap-beginner-to-advanced"></a>
 <details>
   <summary><strong>📌 Node.js Developer Roadmap: Beginner to Advanced</strong></summary>
 
@@ -861,6 +868,7 @@ Organized into:
 
 </details>
 
+<a id="devops-engineer-roadmap-beginner-to-advanced"></a>
 <details>
   <summary><strong>📌 DevOps Engineer Roadmap: Beginner to Advanced</strong></summary>
 
@@ -928,6 +936,7 @@ Master the art of automation, CI/CD, containerization, monitoring, and cloud inf
 
 </details>
 
+<a id="react-native-developer-roadmap-beginner-to-advanced"></a>
 <details>
   <summary><strong>📌 React Native Developer Roadmap: Beginner to Advanced</strong></summary>
 
@@ -1007,6 +1016,7 @@ Structured in levels: ✅ Beginner → 🔁 Intermediate → 🔥 Advanced
 
 </details>
 
+<a id="flutter-developer-roadmap-beginner-to-advanced"></a>
 <details>
   <summary><strong>📌 Flutter Developer Roadmap: Beginner to Advanced</strong></summary>
 
@@ -1086,6 +1096,7 @@ Roadmap is structured into: ✅ Beginner → 🔁 Intermediate → 🔥 Advanced
 
 </details>
 
+<a id="cloud-engineer-roadmap-beginner-to-advanced"></a>
 <details>
 <summary><strong>📌 Cloud Engineer Roadmap: Beginner to Advanced</strong></summary>
 
@@ -1137,7 +1148,7 @@ A complete guide for becoming a **Cloud Engineer** — someone skilled in cloud 
 
 </details>
 
-
+<a id="aws-developer-roadmap"></a>
 <details>
 <summary><strong>📌 AWS Developer Roadmap</strong></summary>
 
@@ -1182,7 +1193,7 @@ A focused roadmap for **AWS Developer & Architect** skills.
 
 </details>
 
-
+<a id="google-cloud-gcp-developer-roadmap"></a>
 <details>
 <summary><strong>📌 Google Cloud Platform (GCP) Developer Roadmap</strong></summary>
 
@@ -1225,7 +1236,7 @@ Learn how to build and manage apps on **Google Cloud** with modern tooling and s
 
 </details>
 
-
+<a id="azure-developer-roadmap"></a>
 <details>
 <summary><strong>📌 Microsoft Azure Developer Roadmap</strong></summary>
 
@@ -1267,6 +1278,7 @@ A roadmap for developers building solutions in **Microsoft’s cloud ecosystem**
 </details>
 
 
+<a id="serverless-architecture-roadmap"></a>
 <details>
 <summary><strong>📌 Serverless Architecture Roadmap</strong></summary>
 
@@ -1304,6 +1316,7 @@ A roadmap for developers building solutions in **Microsoft’s cloud ecosystem**
 </details>
 
 
+<a id="cloud-security-engineer-roadmap"></a>
 <details>
 <summary><strong>📌 Cloud Security Engineer Roadmap</strong></summary>
 
