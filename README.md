@@ -19,8 +19,8 @@ Whether you're diving into **MERN**, mastering **Java**, building powerful **Spr
 - 📌 [Next.js Developer Roadmap: Beginner to Advanced](#-nextjs-developer-roadmap-beginner-to-advanced)
 - 📌 [Node.js Developer Roadmap: Beginner to Advanced](#-nodejs-developer-roadmap-beginner-to-advanced)
 - 📌 [DevOps Engineer Roadmap: Beginner to Advanced](#-deveops-engineer-roadmap-beginner-to-advanced)
-- 📌 [React Native Roadmap: Beginner to Advanced](#-reactive-native-developer-roadmap-beginner-to-advanced)
-- 📌 [React Native Roadmap: Beginner to Advanced](#-reactive-native-developer-roadmap-beginner-to-advanced) 
+- 📌 [Flutter Developer Roadmap: Beginner to Advanced](#flutter-developer-roadmap-beginner-to-advanced)
+- 📌 [Cloud Engineer Roadmap: Beginner to Advanced<](#cloud--engineer-roadmap-beginner-to-advanced) 
 - 📌 [React Native Roadmap: Beginner to Advanced](#-reactive-native-developer-roadmap-beginner-to-advanced) 
 
 
@@ -1079,6 +1079,261 @@ Roadmap is structured into: ✅ Beginner → 🔁 Intermediate → 🔥 Advanced
 ---
 
 > _“Build once. Run everywhere. That’s Flutter.”_ ✨
+
+</details>
+
+<details>
+<summary><strong>📌 Cloud Engineer Roadmap: Beginner to Advanced</strong></summary>
+
+A complete guide for becoming a **Cloud Engineer** — someone skilled in cloud platforms, automation, and deployments.
+
+---
+
+## 🟢 Beginner Level
+
+- ✅ Understand Cloud Basics (IaaS, PaaS, SaaS)
+- ✅ Learn how Cloud works: compute, storage, networking
+- ✅ Explore the Big 3: AWS, GCP, Azure
+- ✅ Learn about:
+  - ✅ Virtual Machines (EC2, Compute Engine)
+  - ✅ Block vs Object Storage (S3, GCS)
+  - ✅ Load Balancers, VPC
+- ✅ Linux + CLI skills
+- ✅ Git & GitHub
+- ✅ DNS, HTTP, SSL basics
+
+---
+
+## 🔵 Intermediate Level
+
+- 🚀 Cloud SDKs and CLI tools (AWS CLI, gcloud, az)
+- 🚀 Deploy Web Apps to Cloud
+- 🚀 Auto Scaling & Load Balancing
+- 🚀 Containers (Docker) + Deploy to ECS / GKE / AKS
+- 🚀 Databases in Cloud (RDS, Cloud SQL, Cosmos DB)
+- 🚀 CI/CD Pipelines with GitHub Actions
+- 🚀 Infrastructure as Code (Terraform, AWS CDK)
+- 🚀 Serverless Basics (Lambda, Cloud Functions)
+
+---
+
+## 🔴 Advanced Level
+
+- 🧠 Kubernetes (EKS, GKE, AKS)
+- 🧠 Multi-Cloud & Hybrid Cloud
+- 🧠 Monitoring Tools (CloudWatch, Stackdriver, Prometheus)
+- 🧠 IAM + Security Groups
+- 🧠 Secrets Management (SSM, Secrets Manager, Vault)
+- 🧠 Cost Optimization
+- 🧠 Cloud Compliance (SOC2, HIPAA, ISO)
+- 🧠 Cloud Automation with Python or Bash
+- 🧠 Real-time Logging (ELK, Cloud Logging)
+
+> _“Master the cloud. Deploy with confidence.”_ ☁️
+
+</details>
+
+
+<details>
+<summary><strong>📌 AWS Developer Roadmap</strong></summary>
+
+A focused roadmap for **AWS Developer & Architect** skills.
+
+---
+
+## 🟢 Core AWS Services
+
+- ✅ EC2, S3, Lambda
+- ✅ RDS, DynamoDB
+- ✅ IAM (Users, Roles, Policies)
+- ✅ Route 53, CloudFront
+- ✅ VPC, Subnets, Security Groups
+- ✅ Elastic Beanstalk, ECS
+
+---
+
+## 🔵 Intermediate Concepts
+
+- 🚀 Serverless Stack (API Gateway + Lambda + DynamoDB)
+- 🚀 EventBridge, SQS, SNS
+- 🚀 CI/CD with CodePipeline, CodeDeploy
+- 🚀 CloudFormation or Terraform
+- 🚀 Monitoring with CloudWatch
+- 🚀 CloudTrail, AWS Config
+- 🚀 Cognito for Auth
+
+---
+
+## 🔴 Advanced Topics
+
+- 🧠 Architecting High Availability Systems
+- 🧠 Cost Management (Budgets, Cost Explorer)
+- 🧠 Load Testing, Auto Scaling
+- 🧠 Cross-region Replication
+- 🧠 Custom Domain with API Gateway + ACM
+- 🧠 Multi-account AWS Organizations
+- 🧠 Using AWS SDK with Node.js/Python
+
+> _“AWS is not just a cloud—it’s a universe.”_
+
+</details>
+
+
+<details>
+<summary><strong>📌 Google Cloud Platform (GCP) Developer Roadmap</strong></summary>
+
+Learn how to build and manage apps on **Google Cloud** with modern tooling and serverless services.
+
+---
+
+## 🟢 Core GCP Skills
+
+- ✅ Compute Engine
+- ✅ Cloud Functions
+- ✅ App Engine
+- ✅ Cloud Run
+- ✅ Cloud Storage
+- ✅ BigQuery
+- ✅ IAM
+
+---
+
+## 🔵 Intermediate Skills
+
+- 🚀 Cloud Build & Artifact Registry
+- 🚀 Pub/Sub for Event-driven Systems
+- 🚀 VPC + Cloud NAT
+- 🚀 CI/CD via Cloud Build Pipelines
+- 🚀 Firebase Integration (Auth, Firestore, Hosting)
+
+---
+
+## 🔴 Advanced Topics
+
+- 🧠 Kubernetes Engine (GKE)
+- 🧠 SLO/SLI + Monitoring with Cloud Monitoring
+- 🧠 Real-time pipelines with Dataflow
+- 🧠 Machine Learning with Vertex AI
+- 🧠 Terraform with GCP
+- 🧠 Hybrid Networking
+
+> _“Go cloud-native with Google Cloud.”_ 🌐
+
+</details>
+
+
+<details>
+<summary><strong>📌 Microsoft Azure Developer Roadmap</strong></summary>
+
+A roadmap for developers building solutions in **Microsoft’s cloud ecosystem**.
+
+---
+
+## 🟢 Azure Basics
+
+- ✅ Azure Portal, CLI & Resource Groups
+- ✅ Azure VMs & App Services
+- ✅ Azure Blob, Table, and Queue Storage
+- ✅ Azure SQL & Cosmos DB
+- ✅ Azure Functions (Serverless)
+
+---
+
+## 🔵 Intermediate Skills
+
+- 🚀 Azure DevOps (Pipelines, Boards)
+- 🚀 ARM Templates + Bicep
+- 🚀 Event Grid & Service Bus
+- 🚀 Azure AD Integration (Auth)
+- 🚀 Deployment Slots & Staging Envs
+
+---
+
+## 🔴 Advanced Skills
+
+- 🧠 AKS (Azure Kubernetes Service)
+- 🧠 Azure Monitor & Log Analytics
+- 🧠 API Management Gateway
+- 🧠 Identity + Role Management
+- 🧠 Azure Load Balancer / Traffic Manager
+- 🧠 Custom Domains + SSL Certs
+
+> _“Develop faster with the power of Azure.”_
+
+</details>
+
+
+<details>
+<summary><strong>📌 Serverless Architecture Roadmap</strong></summary>
+
+---
+
+## 🟢 Beginner Level
+
+- ✅ What is Serverless?
+- ✅ Serverless vs Traditional Architecture
+- ✅ Use-cases for Serverless
+
+---
+
+## 🔵 Core Tools
+
+- 🚀 AWS Lambda / GCP Cloud Functions / Azure Functions
+- 🚀 API Gateway / Firebase Functions
+- 🚀 Database options (DynamoDB, Firestore, Fauna)
+- 🚀 Auth (Cognito, Firebase Auth)
+- 🚀 File Uploads (S3, Cloud Storage)
+
+---
+
+## 🔴 Advanced Topics
+
+- 🧠 Cold Starts, Timeouts, Memory tuning
+- 🧠 Serverless Framework / SST / Amplify
+- 🧠 Monitoring & Observability (CloudWatch, Dashbird)
+- 🧠 Event-driven Workflows
+- 🧠 CI/CD Pipelines
+- 🧠 Infrastructure as Code for Serverless
+
+> _“Write code. Ship fast. Forget infrastructure.”_
+
+</details>
+
+
+<details>
+<summary><strong>📌 Cloud Security Engineer Roadmap</strong></summary>
+
+---
+
+## 🟢 Foundations
+
+- ✅ Networking + OSI Model
+- ✅ Linux Permissions + File System
+- ✅ IAM Basics (Users, Roles, Policies)
+- ✅ HTTPS, SSL/TLS, DNS
+
+---
+
+## 🔵 Cloud Security Tools
+
+- 🚀 AWS IAM + Organizations
+- 🚀 Secrets Manager / KMS
+- 🚀 Identity Federation (SAML, OIDC)
+- 🚀 WAF + Shield
+- 🚀 Logging & Auditing Tools (CloudTrail, GuardDuty)
+
+---
+
+## 🔴 Advanced
+
+- 🧠 Zero Trust Security Model
+- 🧠 SOC2, HIPAA, GDPR Compliance
+- 🧠 Data Encryption at Rest & Transit
+- 🧠 SIEMs & Log Forwarding
+- 🧠 Secure CI/CD Pipelines
+- 🧠 Pen Testing Cloud Apps
+
+> _“Security is not a layer — it’s a design.”_
 
 </details>
 
