@@ -16,6 +16,8 @@ Whether you're diving into **MERN**, mastering **Java**, building powerful **Spr
 - 📌 [Spring Boot Developer Roadmap: Beginner to Advanced](#-spring-boot-developer-roadmap-beginner-to-advanced)
 - 📌 [Spring Boot + Microservices + Docker + AWS](#spring-boot--microservices--docker--aws)
 - 📌 [Python Developer Roadmap: Beginner to Advanced](#-python-developer-roadmap-beginner-to-advanced)
+- 📌 [Next.js Developer Roadmap: Beginner to Advanced](#-nextjs-developer-roadmap-beginner-to-advanced)
+
 
 ---
 
@@ -637,6 +639,114 @@ Organized into:
 
 
 </details>
+
+<details>
+  
+<summary>
+<strong> 📌 Next.js Developer Roadmap: Beginner to Advanced  </strong>
+</summary>
+
+A step-by-step roadmap to becoming a **production-ready Next.js Developer**, covering the fundamentals of React, server-side rendering, full-stack features, and deployment.
+
+Organized into:  
+✅ **Beginner (React Foundation)** → 🔁 **Intermediate (Next.js Core)** → 🧠 **Advanced (API, Auth, Optimization, Deployment)**
+
+---
+
+## 🟢 Beginner Level (React Foundations)
+
+- ✅ HTML5, CSS3, Flexbox, Grid  
+- ✅ JavaScript ES6+ (let/const, arrow functions, promises, etc.)  
+- ✅ DOM Manipulation & Events  
+- ✅ Git & GitHub Basics  
+- ✅ React Fundamentals  
+  - JSX, Components, Props, State, Events  
+  - Functional Components  
+- ✅ React Hooks (`useState`, `useEffect`)  
+- ✅ Conditional Rendering & Lists  
+- ✅ Form Handling  
+- ✅ React Router (basic routing)  
+
+---
+
+## 🔵 Intermediate Level (Core Next.js)
+
+- 🚀 Introduction to Next.js  
+- 🚀 Pages & File-based Routing  
+- 🚀 Dynamic Routes & Catch-all Routes  
+- 🚀 Layouts & Custom App Component  
+- 🚀 Static Site Generation (SSG) with `getStaticProps`  
+- 🚀 Server-side Rendering (SSR) with `getServerSideProps`  
+- 🚀 Client-side Rendering (CSR)  
+- 🚀 Image Optimization with `next/image`  
+- 🚀 Linking Between Pages (`next/link`)  
+- 🚀 Using `next/head` for SEO  
+- 🚀 CSS Modules & Global Styles  
+- 🚀 Tailwind CSS with Next.js  
+- 🚀 API Routes (`pages/api`)  
+
+---
+
+## 🔴 Advanced Level (Fullstack + Optimization)
+
+- 🧠 Next.js App Router (from v13+)  
+- 🧠 React Server Components  
+- 🧠 Middleware (for auth, redirects, etc.)  
+- 🧠 Dynamic Metadata & Head Config  
+- 🧠 Authentication  
+  - 🔐 JWT / Session-based Auth  
+  - 🔐 NextAuth.js  
+  - 🔐 Role-Based Access Control (RBAC)  
+- 🧠 Global State Management  
+  - Context API, Redux Toolkit, Zustand, or Jotai  
+- 🧠 Data Fetching Libraries (SWR, React Query)  
+- 🧠 Working with Forms (Formik, React Hook Form)  
+- 🧠 Connecting with Backend (MongoDB, PostgreSQL)  
+- 🧠 Prisma ORM or Mongoose  
+- 🧠 Environment Variables & Secrets  
+- 🧠 Performance Optimization (Lighthouse, lazy loading)  
+- 🧠 SEO Best Practices (robots.txt, sitemap.xml, metadata)  
+- 🧠 Error Handling & Custom Error Pages  
+- 🧠 Unit Testing (Jest, React Testing Library)  
+- 🧠 CI/CD with GitHub Actions / Vercel  
+- 🧠 Deployment on Vercel / Railway / AWS / Netlify  
+- 🧠 Full-stack Projects with Next.js API + DB  
+
+---
+
+## 📝 Project Ideas by Level
+
+| Level       | Projects                                |
+|-------------|------------------------------------------|
+| Beginner    | Personal Portfolio, Todo App            |
+| Intermediate| Blog with Markdown, Product Showcase    |
+| Advanced    | E-commerce Store, Auth Dashboard, SaaS  |
+
+---
+
+## 📌 Tips for Success
+
+- 🧠 Learn by building full-stack apps (with backend/API)  
+- 🛠️ Focus on performance, SEO, and UX  
+- 📘 Read the official [Next.js Docs](https://nextjs.org/docs)  
+- 🚀 Use Vercel for seamless deployments  
+- 🗃️ Use `.env.local` for local secrets  
+- 🧱 Write modular, reusable components  
+
+> _"Next.js is not just a React framework — it's a full-stack production engine."_
+
+---
+
+## ✅ Track Your Progress
+
+```markdown
+- [x] Setup Next.js Project  
+- [x] Create Pages with Static & Dynamic Routing  
+- [ ] Build Auth System with NextAuth  
+- [ ] Connect to MongoDB with Prisma  
+- [ ] Deploy on Vercel with CI/CD
+```
+</details> 
 
 
 ## 📂 Perfect For
