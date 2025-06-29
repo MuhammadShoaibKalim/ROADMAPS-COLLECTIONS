@@ -10,7 +10,7 @@ Whether you're diving into MERN, mastering Java, building powerful Spring Boot M
 
 ## Table of Contents
 
-1. [.NET Full Stack Developer Roadmap: Beginner to Advanced](#1-net-full-stack-developer-roadmap-beginner-to-advanced)
+1. [.NET Full Stack Developer Roadmap: Beginner to Advanced](#dotnet-full-stack-developer-roadmap-beginner-to-advanced)
 2. [MERN Stack Developer Roadmap: Beginner to Advanced](#2-mern-stack-developer-roadmap-beginner-to-advanced)
 3. [Java Developer Roadmap: Beginner to Advanced](#3-java-developer-roadmap-beginner-to-advanced)
 4. [Spring Boot Developer Roadmap: Beginner to Advanced](#4-spring-boot-developer-roadmap-beginner-to-advanced)
