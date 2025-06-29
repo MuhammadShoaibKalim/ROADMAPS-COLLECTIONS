@@ -40,7 +40,7 @@ Whether you're diving into MERN, mastering Java, building powerful Spring Boot M
 - Skills mapped for jobs, freelancing, and real-world development
 
 ---
-
+<a id="dotnet-full-stack-developer-roadmap-beginner-to-advanced"></a>
 <details>
   
 <summary>
