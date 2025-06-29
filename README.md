@@ -922,6 +922,86 @@ Master the art of automation, CI/CD, containerization, monitoring, and cloud inf
 
 </details>
 
+<details>
+  <summary><strong>📌 React Native Developer Roadmap: Beginner to Advanced</strong></summary>
+
+Build high-performance, cross-platform mobile apps for Android & iOS using React Native.  
+Structured in levels: ✅ Beginner → 🔁 Intermediate → 🔥 Advanced
+
+---
+
+## 🟢 Beginner Level
+
+- ✅ JavaScript ES6+ (Arrow Functions, Destructuring, Template Literals)
+- ✅ React Basics (JSX, Props, State, Functional Components)
+- ✅ React Native Setup
+  - 📦 Expo CLI (Easiest for beginners)
+  - 🛠️ React Native CLI (For advanced native setup)
+- ✅ Core Components:
+  - `View`, `Text`, `Image`, `ScrollView`, `TextInput`, `TouchableOpacity`
+- ✅ Flexbox Layout & Styling
+- ✅ useState + useEffect Hooks
+- ✅ Navigation with React Navigation (Stack + Tab)
+- ✅ Debugging (Chrome, Flipper, React Native Debugger)
+- ✅ Project Setup on Android Emulator / iOS Simulator
+
+---
+
+## 🔵 Intermediate Level
+
+- 🚀 Context API for Global State
+- 🚀 API Integration using Axios / Fetch
+- 🚀 Form Handling with Formik + Yup
+- 🚀 AsyncStorage (local data persistence)
+- 🚀 React Navigation (Drawer, Nested Routes)
+- 🚀 Platform-Specific Code (`Platform.OS`)
+- 🚀 Device APIs: Camera, Location, Vibration (using Expo modules or `react-native-device-info`)
+- 🚀 Custom Hooks
+- 🚀 Responsive Design using `Dimensions`, `SafeAreaView`, `KeyboardAvoidingView`
+- 🚀 Icons (React Native Vector Icons, Ionicons, MaterialIcons)
+
+---
+
+## 🔴 Advanced Level
+
+- 🧠 Redux Toolkit Integration
+- 🧠 Authentication (JWT Tokens, OAuth2, Firebase Auth)
+- 🧠 Firebase Integration (Realtime DB, Firestore, Push Notifications)
+- 🧠 SQLite, WatermelonDB, or Realm for local DB
+- 🧠 Animations (Lottie, Reanimated, Gesture Handler)
+- 🧠 Deep Linking & Universal Links
+- 🧠 Offline Support + Caching
+- 🧠 App Performance Optimization (Memoization, useCallback, Profiler)
+- 🧠 OTA Updates (Expo EAS Update / CodePush)
+- 🧠 Testing:
+  - Unit Testing (Jest)
+  - Component Testing (React Native Testing Library)
+  - End-to-End (Detox)
+- 🧠 CI/CD:
+  - Expo EAS Build
+  - GitHub Actions + Fastlane
+- 🧠 App Deployment:
+  - Play Store (Android)
+  - App Store (iOS)
+- 🧠 Crash Reporting & Monitoring (Sentry, Firebase Crashlytics)
+
+---
+
+## 📝 Project Ideas
+
+| Level | Projects |
+|-------|----------|
+| Beginner | Counter App, Stopwatch, Todo App |
+| Intermediate | Weather App, Notes App, News Reader |
+| Advanced | E-commerce App, Chat App, Ride Booking App |
+
+---
+
+> _"Write once, deploy everywhere — React Native is power + speed."_ 💡
+
+</details>
+
+
 ## 📂 Perfect For
 
 - Self-taught developers or students
