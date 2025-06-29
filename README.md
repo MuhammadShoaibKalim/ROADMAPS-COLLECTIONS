@@ -19,6 +19,8 @@ Whether you're diving into **MERN**, mastering **Java**, building powerful **Spr
 - 📌 [Next.js Developer Roadmap: Beginner to Advanced](#-nextjs-developer-roadmap-beginner-to-advanced)
 - 📌 [Node.js Developer Roadmap: Beginner to Advanced](#-nodejs-developer-roadmap-beginner-to-advanced)
 - 📌 [DevOps Engineer Roadmap: Beginner to Advanced](#-deveops-engineer-roadmap-beginner-to-advanced)
+- 📌 [React Native Roadmap: Beginner to Advanced](#-reactive-native-developer-roadmap-beginner-to-advanced)
+- 📌 [React Native Roadmap: Beginner to Advanced](#-reactive-native-developer-roadmap-beginner-to-advanced) 
 - 📌 [React Native Roadmap: Beginner to Advanced](#-reactive-native-developer-roadmap-beginner-to-advanced) 
 
 
@@ -998,6 +1000,85 @@ Structured in levels: ✅ Beginner → 🔁 Intermediate → 🔥 Advanced
 ---
 
 > _"Write once, deploy everywhere — React Native is power + speed."_ 💡
+
+</details>
+
+<details>
+  <summary><strong>📌 Flutter Developer Roadmap: Beginner to Advanced</strong></summary>
+
+Build beautiful cross-platform apps for **Android**, **iOS**, **Web**, and **Desktop** using Flutter.  
+Roadmap is structured into: ✅ Beginner → 🔁 Intermediate → 🔥 Advanced
+
+---
+
+## 🟢 Beginner Level
+
+- ✅ Install Flutter SDK + Dart SDK
+- ✅ Set up IDE (VS Code / Android Studio)
+- ✅ Run first app on Emulator / Device
+- ✅ Understand `main.dart` and `runApp()`
+- ✅ Widgets Basics:
+  - `Text`, `Container`, `Row`, `Column`, `Image`, `ListView`
+- ✅ Hot Reload & Hot Restart
+- ✅ Stateful vs Stateless Widgets
+- ✅ Basic Routing / Navigation (`Navigator.push`)
+- ✅ Basic Layouts & UI with `Padding`, `Margin`, `Alignment`
+- ✅ Dart Fundamentals:
+  - Variables, Data Types, Functions, Classes, Loops
+- ✅ Debugging Tools (Flutter DevTools)
+
+---
+
+## 🔵 Intermediate Level
+
+- 🚀 Forms & Validation (`TextFormField`, `Form`, `validator`)
+- 🚀 State Management:
+  - Provider (recommended for starters)
+  - Riverpod (modern, scalable)
+- 🚀 Navigation 2.0 (Named Routes, Route Guards)
+- 🚀 Responsive Design with `MediaQuery`, `LayoutBuilder`
+- 🚀 REST API Integration using `http` package
+- 🚀 Image Picker, File Picker
+- 🚀 Local Storage with `SharedPreferences`, `Hive`
+- 🚀 Animations (Implicit & Explicit)
+- 🚀 Theming (Light/Dark Mode, Custom Fonts)
+- 🚀 Firebase Integration:
+  - Auth, Firestore, Storage
+- 🚀 Git & GitHub (Basic Workflow)
+
+---
+
+## 🔴 Advanced Level
+
+- 🧠 Advanced State Management (Bloc, GetX, MobX)
+- 🧠 SQLite / Moor DB for local database
+- 🧠 Push Notifications (Firebase Messaging)
+- 🧠 Background Services / Tasks
+- 🧠 Custom Animations (Rive, Lottie)
+- 🧠 Build Modular & Scalable Architecture (Clean Architecture)
+- 🧠 Testing:
+  - Unit, Widget, Integration
+- 🧠 CI/CD with GitHub Actions / CodeMagic
+- 🧠 Build for Web/Desktop
+- 🧠 Flutter Web Optimization
+- 🧠 OAuth2 & Secure Auth (Google, Facebook, etc.)
+- 🧠 Internationalization (i18n)
+- 🧠 Offline Mode / Caching
+- 🧠 Performance Profiling & Optimization
+
+---
+
+## 📝 Project Ideas
+
+| Level | Projects |
+|-------|----------|
+| Beginner | Counter App, BMI Calculator, Quote App |
+| Intermediate | Weather App, Expense Tracker, Chat App |
+| Advanced | E-commerce App, Social Media App, Food Delivery App |
+
+---
+
+> _“Build once. Run everywhere. That’s Flutter.”_ ✨
 
 </details>
 
